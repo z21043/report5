@@ -37,4 +37,3 @@ do
 done
 echo "最大公約数:　"$first
 
-#test message
